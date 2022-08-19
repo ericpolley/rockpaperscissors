@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#bigbox {
+    width: 80vw;
+    height: 80vh;
+    background-color: rgba(48, 43, 37, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#choiceBox {
+width: 90%;
+height: 75%;
+display: flex;
+text-align: center;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 5px solid white;
+background-color: rgba(48, 43, 37, 0.8);
+color: antiquewhite;
+}
+
+span {
+    color: white;
+    font-size: xx-large;
+}
+
+button {
+    background-color: darkslategray;
+    color: white;
+    font-size: x-large;
+}
